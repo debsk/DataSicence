@@ -1,2 +1,2 @@
-# DataSicence
+# DataScience
 Algumas aplicaçoes de data science
